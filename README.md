@@ -54,11 +54,8 @@ For the purposes of this project, the chessboard was removed from the scene. The
 
 Some new images
 
-<img src="https://github.com/moezdurrani/TinyRayTracerPython/blob/main/Images/011.png">
+<img src="https://github.com/moezdurrani/TinyRayTracerPyt/blob/main/Images/011.png">
 
-| <img src="path/to/image1.jpg" width="200px"> | <img src="path/to/image2.jpg" width="200px"> | <img src="path/to/image3.jpg" width="200px"> |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <img src="path/to/image4.jpg" width="200px"> | <img src="path/to/image5.jpg" width="200px"> | <img src="path/to/image6.jpg" width="200px"> |
 
 
 
