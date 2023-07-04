@@ -59,7 +59,7 @@ Some new images
 again here
 
 | <img src="https://github.com/moezdurrani/TinyRayTracerPyt/blob/master/Images/011.png"> | <img src="https://github.com/moezdurrani/TinyRayTracerPyt/blob/master/Images/011.png"> | <img src="https://github.com/moezdurrani/TinyRayTracerPyt/blob/master/Images/011.png"> |
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+
 
 
 
